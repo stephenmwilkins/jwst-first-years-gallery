@@ -1,0 +1,1 @@
+sudo cp -r ../jwst-first-years-gallery /Library/WebServer/Documents/

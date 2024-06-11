@@ -1,0 +1,63 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="expires" content="0">
+
+<link href="https://fonts.googleapis.com/css?family=Dosis&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Rubik&display=swap" rel="stylesheet">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+<script src="js/gallery.js"></script>
+
+
+<link rel="stylesheet" href="css/gallery.css">
+
+
+
+</head>
+
+<body onload="gallery_loadXMLDoc(); ">
+
+<!-- Home -->
+
+<!-- Gallery  -->
+
+<div id="gallery" class="gallery">
+</div>
+
+
+<div id="overlay" class="overlay" onclick="hide_image();"></div>
+
+
+<div id="image_container" class="image_container" onclick="hide_image();">
+
+    <img id="image_image" class="image_image">
+
+
+
+    <div id="image_description_container">
+        <h1 id="image_title"></h1>
+        <h2 id="image_object"></h2>
+        <p id="image_description"></p>
+        <p id="image_credit"></p>
+
+    </div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+</body>
+</html>
