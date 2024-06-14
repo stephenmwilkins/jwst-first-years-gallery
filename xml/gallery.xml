@@ -424,29 +424,6 @@ carbon-based molecules known as polycyclic aromatic hydrocarbons (PAHs). Roughly
     </image>
     
 
-
-
-    <image>
-        <filename>weic2320d</filename>
-        <title>
-        Ring Nebula 
-        </title>
-        <object>Ring Nebula (M57)</object>
-        <description>
-        The NASA/ESA/CSA James Webb Space Telescope has observed the well-known Ring Nebula with unprecedented detail. Formed by a star throwing off its outer layers as it runs out of fuel, the Ring Nebula is an archetypal planetary nebula. Also known as M57 and NGC 6720, it is both relatively close to Earth at roughly 2,500 light-years away.
-
-This new image provides unprecedented spatial resolution and spectral sensitivity. For example, the intricate details of the filament structure of the inner ring are particularly visible in this dataset.
-
-There are some 20,000 dense globules in the nebula, which are rich in molecular hydrogen. In contrast, the inner region shows very hot gas. The main shell contains a thin ring of enhanced emission from carbon-based molecules known as polycyclic aromatic hydrocarbons (PAHs). Roughly ten concentric arcs are located just beyond the outer edge of the main ring. The arcs are thought to originate from the interaction of the central star with a low-mass companion orbiting at a distance comparable to that between the Earth and the dwarf planet Pluto. In this way, nebulae like the Ring Nebula reveal a kind of astronomical archaeology, as astronomers study the nebula to learn about the star that created it.
-        </description>
-        <credit>
-        ESA/Webb, NASA, CSA, M. Barlow, N. Cox, R. Wesson
-        </credit>
-    </image>    
-
-
-
-
     <image>
         <filename>elgordo1</filename>
         <title>
@@ -900,28 +877,7 @@ Webb’s NIRCam was built by a team at the University of Arizona and Lockheed Ma
 
 
 
-    <image>
-        <filename>weic2218c</filename>
-        <title>
-        Pillars of Creation
-        </title>
-        <object>Eagle Nebula</object>
-        
-        <description>
-        The NASA/ESA/CSA James Webb Space Telescope’s mid-infrared view of the Pillars of Creation strikes a chilling tone. Thousands of stars that exist in this region disappear from view — and seemingly endless layers of gas and dust become the centrepiece.
-
-The detection of dust by Webb’s Mid-Infrared Instrument (MIRI) is extremely important — dust is a major ingredient for star formation. Many stars are actively forming in these dense blue-grey pillars. When knots of gas and dust with sufficient mass form in these regions, they begin to collapse under their own gravitational attraction, slowly heat up, and eventually form new stars.
-
-Although the stars appear to be missing, they aren’t. Stars typically do not emit much mid-infrared light. Instead, they are easiest to detect in ultraviolet, visible, and near-infrared light. In this MIRI view, two types of stars can be identified. The stars at the end of the thick, dusty pillars have recently eroded most of the more distant material surrounding them but they can be seen in mid-infrared light because they are still surrounded by cloaks of dust. In contrast, blue tones indicate stars that are older and have shed most of their gas and dust.
-
-Mid-infrared light also details dense regions of gas and dust. The red region toward the top, which forms a delicate V shape, is where the dust is both diffuse and cooler. And although it may seem like the scene clears toward the bottom left of this view, the darkest grey areas are where densest and coolest regions of dust lie. Notice that there are many fewer stars and no background galaxies popping into view.
-
-Webb’s mid-infrared data will help researchers determine exactly how much dust is in this region — and what it’s made of. These details will make models of the Pillars of Creation far more precise. Over time, we will begin to understand more clearly how stars form and burst out of these dusty clouds over millions of years.
-        </description>
-        <credit>
-        NASA, ESA, CSA, STScI, J. DePasquale (STScI), A. Pagan (STScI)
-        </credit>
-    </image>
+  
 
     <image>
         <filename>potm2210d</filename>
@@ -1134,5 +1090,168 @@ The galaxies in this scene that are farthest away – the tiniest galaxies that 
         NASA, ESA, CSA, and STScI
         </credit>
     </image>
+
+    <image>
+        <filename>weic2411a</filename>
+        <title>Horsehead Nebula</title>
+        <object>Horsehead Nebula</object>
+        
+        <description>
+        The James Webb Space Telescope has captured the sharpest infrared images to date of one of the most distinctive objects in our skies, the Horsehead Nebula. These observations show a part of the iconic nebula in a whole new light, capturing its complexity with unprecedented spatial resolution.
+
+Webb’s new images show part of the sky in the constellation Orion (The Hunter), in the western side of the Orion B molecular cloud. Rising from turbulent waves of dust and gas is the Horsehead Nebula, otherwise known as Barnard 33, which resides roughly 1300 light-years away. 
+
+The nebula formed from a collapsing interstellar cloud of material, and glows because it is illuminated by a nearby hot star. The gas clouds surrounding the Horsehead have already dissipated, but the jutting pillar is made of thick clumps of material that is harder to erode. Astronomers estimate that the Horsehead has about five million years left before it too disintegrates. Webb’s new view focuses on the illuminated edge of the top of the nebula’s distinctive dust and gas structure.
+        </description>
+        <credit>
+        NASA, ESA, CSA, and STScI
+        </credit>
+    </image>
+
+    <image>
+        <filename>SN1987a-1</filename>
+        <title>SN 1987A</title>
+        <object>SN 1987A</object>
+        
+        <description>
+        The James Webb Space Telescope has begun the study of one of the most renowned supernovae, SN 1987A (Supernova 1987A). Located 168,000 light-years away in the Large Magellanic Cloud, SN 1987A has been a target of intense observations at wavelengths ranging from gamma rays to radio for nearly 40 years, since its discovery in February of 1987. New observations by Webb’s NIRCam (Near-Infrared Camera) provide a crucial clue to our understanding of how a supernova develops over time to shape its remnant.
+
+This image reveals a central structure like a keyhole. This center is packed with clumpy gas and dust ejected by the supernova explosion. The dust is so dense that even near-infrared light that Webb detects can’t penetrate it, shaping the dark “hole” in the keyhole.
+
+A bright, equatorial ring surrounds the inner keyhole, forming a band around the waist that connects two faint arms of hourglass-shaped outer rings. The equatorial ring, formed from material ejected tens of thousands of years before the supernova explosion, contains bright hot spots, which appeared as the supernova’s shock wave hit the ring. Now spots are found even exterior to the ring, with diffuse emission surrounding it. These are the locations of supernova shocks hitting more exterior material.
+        </description>
+        <credit>
+        NASA, ESA, CSA, and STScI
+        </credit>
+    </image>
+
+    <image>
+        <filename>saturn1</filename>
+        <title>Saturn’s rings shine in Webb’s observations of ringed planet
+</title>
+        <object>Saturn</object>
+        
+        <description>
+        On 25 June 2023, JWST turned to famed ringed world Saturn for its first near-infrared observations of the planet. The initial imagery from Webb’s NIRCam (Near-Infrared Camera) is already fascinating researchers.
+
+Saturn itself appears extremely dark at this infrared wavelength observed by the telescope, as methane gas absorbs almost all of the sunlight falling on the atmosphere. However, the icy rings stay relatively bright, leading to the unusual appearance of Saturn in the Webb image.
+
+This image was taken as part of Webb Guaranteed Time Observation program 1247. The program included several very deep exposures of Saturn, which were designed to test the telescope’s capacity to detect faint moons around the planet and its bright rings. Details in the orbital characteristics of newly discovered moons could help scientists put together a more complete picture of the current system of Saturn, as well as its past.
+
+This new image of Saturn clearly shows details within the planet’s ring system, along with several of the planet’s moons – Dione, Enceladus, and Tethys. Additional deeper exposures (not shown here) will allow the team to probe some of the planet’s fainter rings, not visible in this image, including the thin G ring and the diffuse E ring. Saturn’s rings are made up of an array of rocky and icy fragments – the particles range in size from smaller than a grain of sand to a few as large as mountains on Earth. Researchers recently used Webb to explore Enceladus, and found a large plume jetting from the southern pole of the moon that contains both particles and plentiful amounts of water vapor – this plume feeds Saturn’s E ring.
+        </description>
+        <credit>
+        NASA, ESA, CSA, STScI, M. Tiscareno (SETI Institute), M. Hedman (University of Idaho), M. El Moutamid (Cornell University), M. Showalter (SETI Institute), L. Fletcher (University of Leicester), H. Hammel (AURA), J. DePasquale (STScI)
+        </credit>
+    </image>
+
+    <image>
+        <filename>EIGER1</filename>
+        <title>Quasar J0100+2802</title>
+        <object>Quasar J0100+2802</object>
+        
+        <description>
+        There are more than 20,000 galaxies in this field. This JWST view is found between the Pisces and Andromeda constellations.
+
+Researchers using Webb anchored their observations on quasar J0100+2802, an active supermassive black hole that acts like a beacon. It is at the centre of the image above, and appears tiny and pink with six prominent diffraction spikes.
+
+The quasar is so luminous that it acts like a flashlight, illuminating the gas between it and the telescope. The team analyzed 117 galaxies that all existed approximately 900 million years after the big bang – focusing on 59 that lie in front of the quasar. The researchers could study not only the galaxies themselves, but also the illuminated gas surrounding them.
+
+These galaxies existed just before the end of the Era of Reionisation, when the Universe contained a patchwork of gas – some opaque and some transparent (or ionised). 
+        </description>
+        <credit>
+        NASA, ESA, CSA, and STScI
+        </credit>
+    </image>
+
+    <image>
+        <filename>potm2302a</filename>
+        <title>Seeing Triple</title>
+        <object>RX J2129</object>
+        
+        <description>
+        This observation from the James Webb Space Telescope features the massive galaxy cluster RX J2129. Due to Gravitational lensing, this observation contains three different images of the same supernova-hosting galaxy, which you can see in closer detail here. Gravitational lensing occurs when a massive celestial body causes a sufficient curvature of spacetime to bend the path of light travelling past or through it, almost like a vast lens. In this case, the lens is the galaxy cluster RX J2129, located around 3.2 billion light-years from Earth in the constellation Aquarius. Gravitational lensing can cause background objects to appear strangely distorted, as can be seen by the concentric arcs of light in the upper right of this image.
+
+Astronomers discovered the supernova in the triply-lensed background galaxy using observations from the NASA/ESA Hubble Space Telescope, and they suspected that they had found a very distant Type Ia supernova. These supernovae always produce a fairly consistent luminosity — at the same distance, one looks as bright as any other — which makes them particularly helpful to astronomers. As their distance from Earth is proportional to how dim they appear in the night sky, objects with known brightness can be used as 'standard candles' to measure astronomical distances. 
+
+The almost uniform luminosity of a Type Ia supernova could also allow astronomers to understand how strongly the galaxy cluster RX J2129 is magnifying background objects, and therefore how massive the galaxy cluster is. As well as distorting the images of background objects, gravitational lenses can cause distant objects to appear much brighter than they would otherwise. If the gravitational lens magnifies something with a known brightness, such as a Type Ia supernova, then astronomers can use this to measure the ‘prescription’ of the gravitational lens. 
+        </description>
+        <credit>
+        NASA, ESA, CSA, and STScI
+        </credit>
+    </image>
+
+    <image>
+        <filename>weic2205a</filename>
+        <title>Cosmic Cliffs</title>
+        <object>Carina Nebula</object>
+        
+        <description>
+        What looks much like craggy mountains on a moonlit evening is actually the edge of a nearby, young, star-forming region NGC 3324 in the Carina Nebula. Captured in infrared light by the Near-Infrared Camera (NIRCam) on the NASA/ESA/CSA James Webb Space Telescope, this image reveals previously obscured areas of star birth.
+
+Called the Cosmic Cliffs, the region is actually the edge of a gigantic, gaseous cavity within NGC 3324, roughly 7,600 light-years away. The cavernous area has been carved from the nebula by the intense ultraviolet radiation and stellar winds from extremely massive, hot, young stars located in the centre of the bubble, above the area shown in this image. The high-energy radiation from these stars is sculpting the nebula’s wall by slowly eroding it away.
+        </description>
+        <credit>
+        NASA, ESA, CSA, and STScI
+        </credit>
+    </image>
+
+    <image>
+        <filename>weic2403b</filename>
+        <title>IC 5332</title>
+        <object>IC 5332</object>
+        
+        <description>
+        Galaxy IC 5332 was observed as part of the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) program, a large project that includes observations from several space- and ground-based telescopes of many galaxies to help researchers study all phases of the star formation cycle, from the formation of stars within dusty gas clouds to the energy released in the process that creates the intricate structures revealed by Webb’s new images.
+
+IC 5332 is 30 million light-years away in the constellation Sculptor.
+        </description>
+        <credit>
+        NASA, ESA, CSA, and STScI
+        </credit>
+    </image>
+
+
+    <image>
+        <filename>weic2320d</filename>
+        <title>
+        Ring Nebula 
+        </title>
+        <object>Ring Nebula (M57)</object>
+        <description>
+        The NASA/ESA/CSA James Webb Space Telescope has observed the well-known Ring Nebula with unprecedented detail. Formed by a star throwing off its outer layers as it runs out of fuel, the Ring Nebula is an archetypal planetary nebula. Also known as M57 and NGC 6720, it is both relatively close to Earth at roughly 2,500 light-years away.
+
+This new image provides unprecedented spatial resolution and spectral sensitivity. For example, the intricate details of the filament structure of the inner ring are particularly visible in this dataset.
+
+There are some 20,000 dense globules in the nebula, which are rich in molecular hydrogen. In contrast, the inner region shows very hot gas. The main shell contains a thin ring of enhanced emission from carbon-based molecules known as polycyclic aromatic hydrocarbons (PAHs). Roughly ten concentric arcs are located just beyond the outer edge of the main ring. The arcs are thought to originate from the interaction of the central star with a low-mass companion orbiting at a distance comparable to that between the Earth and the dwarf planet Pluto. In this way, nebulae like the Ring Nebula reveal a kind of astronomical archaeology, as astronomers study the nebula to learn about the star that created it.
+        </description>
+        <credit>
+        ESA/Webb, NASA, CSA, M. Barlow, N. Cox, R. Wesson
+        </credit>
+    </image>   
+
+  <image>
+        <filename>weic2218c</filename>
+        <title>
+        Pillars of Creation
+        </title>
+        <object>Eagle Nebula</object>
+        
+        <description>
+        The NASA/ESA/CSA James Webb Space Telescope’s mid-infrared view of the Pillars of Creation strikes a chilling tone. Thousands of stars that exist in this region disappear from view — and seemingly endless layers of gas and dust become the centrepiece.
+
+The detection of dust by Webb’s Mid-Infrared Instrument (MIRI) is extremely important — dust is a major ingredient for star formation. Many stars are actively forming in these dense blue-grey pillars. When knots of gas and dust with sufficient mass form in these regions, they begin to collapse under their own gravitational attraction, slowly heat up, and eventually form new stars.
+
+Although the stars appear to be missing, they aren’t. Stars typically do not emit much mid-infrared light. Instead, they are easiest to detect in ultraviolet, visible, and near-infrared light. In this MIRI view, two types of stars can be identified. The stars at the end of the thick, dusty pillars have recently eroded most of the more distant material surrounding them but they can be seen in mid-infrared light because they are still surrounded by cloaks of dust. In contrast, blue tones indicate stars that are older and have shed most of their gas and dust.
+
+Mid-infrared light also details dense regions of gas and dust. The red region toward the top, which forms a delicate V shape, is where the dust is both diffuse and cooler. And although it may seem like the scene clears toward the bottom left of this view, the darkest grey areas are where densest and coolest regions of dust lie. Notice that there are many fewer stars and no background galaxies popping into view.
+
+Webb’s mid-infrared data will help researchers determine exactly how much dust is in this region — and what it’s made of. These details will make models of the Pillars of Creation far more precise. Over time, we will begin to understand more clearly how stars form and burst out of these dusty clouds over millions of years.
+        </description>
+        <credit>
+        NASA, ESA, CSA, STScI, J. DePasquale (STScI), A. Pagan (STScI)
+        </credit>
+    </image>
+
 
 </gallery>

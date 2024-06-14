@@ -74,3 +74,13 @@ function hide_image() {
     $("#image_container").hide();
 }
 
+
+function hide_about() {
+    $("#about").hide();
+}
+
+function show_about() {
+    $("#about").show();
+}
+
+
