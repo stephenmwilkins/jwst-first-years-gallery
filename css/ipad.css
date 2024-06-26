@@ -41,8 +41,8 @@ body {
 .thumb {
     position: relative;
 	float: left;
-	width: 256px;
-	height: 256px;
+	width: 128px;
+	height: 128px;
 	margin: 0px;
     padding:0px;
 	overflow: hidden;
@@ -73,26 +73,26 @@ body {
     left: 20px;
     top: 20px;
     background-color: #000;
-    width:2048px;
-    height:1536px;
+    width:1024px;
+    height:768px;
     display: none;
 }
 
 /* main image  */
 .image_image {
     position: fixed;
-    width:1496px;
-    height:1496px;
+    width:748px;
+    height:748px;
     overflow: hidden;
 }
 
 #image_description_container {
     padding:10px;
     position: fixed;
-    left: 1516px;
+    left: 758px;
     top: 20px;
-    width:800px;
-    height:1516px;
+    width:400px;
+    height:758px;
     background-color: #000;
     display: flex;
     justify-content: center;
